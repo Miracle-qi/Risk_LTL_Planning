@@ -64,5 +64,14 @@ python reactive_LTL_main.py
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. Please consider citing our papers if the project helps your research with the following BibTex:
+
+```bibtex
+@INPROCEEDINGS{qi2025risk,
+  author={Qi, Shuhao and Zhang, Zengjie and Sun, Zhiyong and Haesaert, Sofie},
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Risk-Aware Autonomous Driving with Linear Temporal Logic Specifications}, 
+  year={2025},
+  pages={14877-14883}}
+```
 
